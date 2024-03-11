@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Maintenance-Proton"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Splash Client"
+	}
+}
